@@ -34,7 +34,7 @@ To use Ascella on your own computer, follow these steps:
 
 To configure the bot for your specific use case, follow these steps:
 
-1. Goto the abstract directory (src/abstract) and make two files. (settings.js & .env)
+1. Goto the source directory (/src/) and create the abstract directory (src/abstract) and make two files. (settings.js & .env)
 2. Open settings.js and add the following
 
 ```js
